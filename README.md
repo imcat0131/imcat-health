@@ -1,12 +1,16 @@
-## this is fitbit api sample program
+# this is fitbit api sample program
 
-### refarence
+## refarence
 
 https://dev.fitbit.com/build/reference/web-api/
 
-### how to use
+## good article
 
-1. get access token and refresh token
+https://www.zenryoku-kun.com/post/fitbit-api/
+
+## how to use
+
+1. get access token, refresh token and client id
 
 2. set access token and refresh token to test_conf.json
 
