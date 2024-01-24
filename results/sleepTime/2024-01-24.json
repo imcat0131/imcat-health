@@ -1,0 +1,249 @@
+{
+  "sleep": [
+    {
+      "dateOfSleep": "2024-01-24",
+      "duration": 10740000,
+      "efficiency": 84,
+      "endTime": "2024-01-24T20:24:30.000",
+      "infoCode": 2,
+      "isMainSleep": true,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2024-01-24T17:25:00.000",
+            "level": "awake",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T17:26:00.000",
+            "level": "restless",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T17:28:00.000",
+            "level": "asleep",
+            "seconds": 2820
+          },
+          {
+            "dateTime": "2024-01-24T18:15:00.000",
+            "level": "restless",
+            "seconds": 180
+          },
+          {
+            "dateTime": "2024-01-24T18:18:00.000",
+            "level": "asleep",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T18:19:00.000",
+            "level": "restless",
+            "seconds": 180
+          },
+          {
+            "dateTime": "2024-01-24T18:22:00.000",
+            "level": "asleep",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T18:24:00.000",
+            "level": "restless",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T18:26:00.000",
+            "level": "asleep",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T18:28:00.000",
+            "level": "restless",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T18:29:00.000",
+            "level": "asleep",
+            "seconds": 1560
+          },
+          {
+            "dateTime": "2024-01-24T18:55:00.000",
+            "level": "restless",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T18:56:00.000",
+            "level": "asleep",
+            "seconds": 2040
+          },
+          {
+            "dateTime": "2024-01-24T19:30:00.000",
+            "level": "restless",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T19:32:00.000",
+            "level": "asleep",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T19:34:00.000",
+            "level": "restless",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T19:35:00.000",
+            "level": "asleep",
+            "seconds": 1080
+          },
+          {
+            "dateTime": "2024-01-24T19:53:00.000",
+            "level": "restless",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T19:55:00.000",
+            "level": "asleep",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T19:57:00.000",
+            "level": "restless",
+            "seconds": 360
+          },
+          {
+            "dateTime": "2024-01-24T20:03:00.000",
+            "level": "asleep",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T20:04:00.000",
+            "level": "restless",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T20:05:00.000",
+            "level": "asleep",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T20:06:00.000",
+            "level": "restless",
+            "seconds": 180
+          },
+          {
+            "dateTime": "2024-01-24T20:09:00.000",
+            "level": "asleep",
+            "seconds": 900
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 151
+          },
+          "awake": {
+            "count": 1,
+            "minutes": 1
+          },
+          "restless": {
+            "count": 12,
+            "minutes": 27
+          }
+        }
+      },
+      "logId": 44287749786,
+      "logType": "auto_detected",
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 151,
+      "minutesAwake": 28,
+      "minutesToFallAsleep": 0,
+      "startTime": "2024-01-24T17:25:00.000",
+      "timeInBed": 179,
+      "type": "classic"
+    },
+    {
+      "dateOfSleep": "2024-01-24",
+      "duration": 9000000,
+      "efficiency": 96,
+      "endTime": "2024-01-24T12:03:00.000",
+      "infoCode": 2,
+      "isMainSleep": false,
+      "levels": {
+        "data": [
+          {
+            "dateTime": "2024-01-24T09:32:30.000",
+            "level": "asleep",
+            "seconds": 3360
+          },
+          {
+            "dateTime": "2024-01-24T10:28:30.000",
+            "level": "restless",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T10:30:30.000",
+            "level": "asleep",
+            "seconds": 660
+          },
+          {
+            "dateTime": "2024-01-24T10:41:30.000",
+            "level": "restless",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T10:42:30.000",
+            "level": "asleep",
+            "seconds": 1860
+          },
+          {
+            "dateTime": "2024-01-24T11:13:30.000",
+            "level": "restless",
+            "seconds": 60
+          },
+          {
+            "dateTime": "2024-01-24T11:14:30.000",
+            "level": "asleep",
+            "seconds": 2700
+          },
+          {
+            "dateTime": "2024-01-24T11:59:30.000",
+            "level": "restless",
+            "seconds": 120
+          },
+          {
+            "dateTime": "2024-01-24T12:01:30.000",
+            "level": "asleep",
+            "seconds": 60
+          }
+        ],
+        "summary": {
+          "asleep": {
+            "count": 0,
+            "minutes": 144
+          },
+          "awake": {
+            "count": 0,
+            "minutes": 0
+          },
+          "restless": {
+            "count": 4,
+            "minutes": 6
+          }
+        }
+      },
+      "logId": 44282971238,
+      "logType": "auto_detected",
+      "minutesAfterWakeup": 0,
+      "minutesAsleep": 144,
+      "minutesAwake": 6,
+      "minutesToFallAsleep": 0,
+      "startTime": "2024-01-24T09:32:30.000",
+      "timeInBed": 150,
+      "type": "classic"
+    }
+  ],
+  "summary": {
+    "totalMinutesAsleep": 295,
+    "totalSleepRecords": 2,
+    "totalTimeInBed": 329
+  }
+}

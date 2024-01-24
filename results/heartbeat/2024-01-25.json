@@ -1,0 +1,150 @@
+{
+  "activities-heart": [
+    {
+      "dateTime": "2024-01-25",
+      "value": {
+        "customHeartRateZones": [],
+        "heartRateZones": [
+          {
+            "caloriesOut": 47.6748,
+            "max": 112,
+            "min": 30,
+            "minutes": 1440,
+            "name": "Out of Range"
+          },
+          {
+            "caloriesOut": 0,
+            "max": 133,
+            "min": 112,
+            "minutes": 0,
+            "name": "Fat Burn"
+          },
+          {
+            "caloriesOut": 0,
+            "max": 160,
+            "min": 133,
+            "minutes": 0,
+            "name": "Cardio"
+          },
+          {
+            "caloriesOut": 0,
+            "max": 220,
+            "min": 160,
+            "minutes": 0,
+            "name": "Peak"
+          }
+        ]
+      }
+    }
+  ],
+  "activities-heart-intraday": {
+    "dataset": [
+      {
+        "time": "00:00:00",
+        "value": 97
+      },
+      {
+        "time": "00:01:00",
+        "value": 93
+      },
+      {
+        "time": "00:02:00",
+        "value": 91
+      },
+      {
+        "time": "00:03:00",
+        "value": 88
+      },
+      {
+        "time": "00:04:00",
+        "value": 86
+      },
+      {
+        "time": "00:05:00",
+        "value": 88
+      },
+      {
+        "time": "00:06:00",
+        "value": 88
+      },
+      {
+        "time": "00:07:00",
+        "value": 89
+      },
+      {
+        "time": "00:08:00",
+        "value": 89
+      },
+      {
+        "time": "00:09:00",
+        "value": 88
+      },
+      {
+        "time": "00:10:00",
+        "value": 84
+      },
+      {
+        "time": "00:11:00",
+        "value": 83
+      },
+      {
+        "time": "00:12:00",
+        "value": 86
+      },
+      {
+        "time": "00:13:00",
+        "value": 85
+      },
+      {
+        "time": "00:14:00",
+        "value": 88
+      },
+      {
+        "time": "00:15:00",
+        "value": 87
+      },
+      {
+        "time": "00:16:00",
+        "value": 92
+      },
+      {
+        "time": "00:17:00",
+        "value": 89
+      },
+      {
+        "time": "00:18:00",
+        "value": 85
+      },
+      {
+        "time": "00:19:00",
+        "value": 85
+      },
+      {
+        "time": "00:20:00",
+        "value": 84
+      },
+      {
+        "time": "00:21:00",
+        "value": 88
+      },
+      {
+        "time": "00:22:00",
+        "value": 87
+      },
+      {
+        "time": "00:23:00",
+        "value": 86
+      },
+      {
+        "time": "00:24:00",
+        "value": 85
+      },
+      {
+        "time": "00:25:00",
+        "value": 85
+      }
+    ],
+    "datasetInterval": 1,
+    "datasetType": "minute"
+  }
+}
